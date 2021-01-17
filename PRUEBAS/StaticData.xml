@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<StaticDataList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>2</Version>
+  <StaticDataLinks>
+    <StaticDataLink>dbo.CabeceraPedido</StaticDataLink>
+    <StaticDataLink>dbo.Cliente</StaticDataLink>
+    <StaticDataLink>dbo.Departamento</StaticDataLink>
+    <StaticDataLink>dbo.Electrodomestico</StaticDataLink>
+    <StaticDataLink>dbo.Empleado</StaticDataLink>
+    <StaticDataLink>dbo.Proveedor</StaticDataLink>
+    <StaticDataLink>dbo.RegistroAsistencias</StaticDataLink>
+    <StaticDataLink>dbo.Salario</StaticDataLink>
+    <StaticDataLink>dbo.Tienda</StaticDataLink>
+  </StaticDataLinks>
+</StaticDataList>
