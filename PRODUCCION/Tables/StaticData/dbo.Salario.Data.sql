@@ -2,4 +2,4 @@
 INSERT dbo.Salario(idSalario, idEmpleado, salarioNominal, salarioReal, fechaPago) VALUES (2, 2, 500.00, 400.00, '2021-01-28')
 INSERT dbo.Salario(idSalario, idEmpleado, salarioNominal, salarioReal, fechaPago) VALUES (3, 3, 500.00, 450.00, '2021-01-28')
 INSERT dbo.Salario(idSalario, idEmpleado, salarioNominal, salarioReal, fechaPago) VALUES (4, 4, 500.00, 350.00, '2021-01-28')
-INSERT dbo.Salario(idSalario, idEmpleado, salarioNominal, salarioReal, fechaPago) VALUES (5, 5, 500.00, 400.00, '2021-01-28')
+INSERT dbo.Salario(idSalario, idEmpleado, salarioNominal, salarioReal, fechaPago) VALUES (5, 5, 500.00, 350.00, '2021-01-28')

@@ -98,3 +98,5 @@ INSERT dbo.Cliente(idCliente, cedulaCliente, nombreCliente, apellidoCliente, tel
 INSERT dbo.Cliente(idCliente, cedulaCliente, nombreCliente, apellidoCliente, telefonoCliente, direccionCliente, fechaNacimientoCliente, idTienda) VALUES (98, '1721778888', 'IRENE', 'GIMENEZ', '6604981394', 'CALLE OCAMPO NO. 231', '1986-10-15', 1)
 INSERT dbo.Cliente(idCliente, cedulaCliente, nombreCliente, apellidoCliente, telefonoCliente, direccionCliente, fechaNacimientoCliente, idTienda) VALUES (99, '1721778889', 'TERESA', 'OTERO', '8451407283', 'OCAMPO NO. 231', '1963-07-18', 1)
 INSERT dbo.Cliente(idCliente, cedulaCliente, nombreCliente, apellidoCliente, telefonoCliente, direccionCliente, fechaNacimientoCliente, idTienda) VALUES (100, '1721778890', 'ENCARNACION', 'HIDALGO', '7561357217', 'CALLE MORELOS NO. 44', '1973-01-21', 1)
+
+INSERT dbo.Cliente(idCliente, cedulaCliente, nombreCliente, apellidoCliente, telefonoCliente, direccionCliente, fechaNacimientoCliente, idTienda) VALUES (101, '1755655995', 'Pepito', 'Tapia', '2659955655', 'Biloxi', '1980-12-01', 1)

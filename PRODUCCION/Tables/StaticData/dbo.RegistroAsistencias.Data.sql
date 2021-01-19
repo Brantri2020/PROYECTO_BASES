@@ -14,3 +14,5 @@ INSERT dbo.RegistroAsistencias(idRegistroAsistencia, fechaHoraAsistencia, idEmpl
 INSERT dbo.RegistroAsistencias(idRegistroAsistencia, fechaHoraAsistencia, idEmpleado, detalleAsistencia) VALUES (14, '2021-01-07 00:00:00.000', 5, 'F')
 INSERT dbo.RegistroAsistencias(idRegistroAsistencia, fechaHoraAsistencia, idEmpleado, detalleAsistencia) VALUES (15, '2021-01-07 00:00:00.000', 4, 'F')
 INSERT dbo.RegistroAsistencias(idRegistroAsistencia, fechaHoraAsistencia, idEmpleado, detalleAsistencia) VALUES (16, '2021-01-08 09:20:00.000', 4, 'R')
+
+INSERT dbo.RegistroAsistencias(idRegistroAsistencia, fechaHoraAsistencia, idEmpleado, detalleAsistencia) VALUES (17, '2021-01-15 00:00:00.000', 5, 'F')
