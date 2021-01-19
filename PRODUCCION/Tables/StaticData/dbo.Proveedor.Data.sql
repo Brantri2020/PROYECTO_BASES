@@ -1,0 +1,5 @@
+﻿INSERT dbo.Proveedor(idProveedor, nombreProveedor, direccionProveedor, telefonoProveedor, idTienda) VALUES (1, 'Insugroup', 'Condado', '2633221', 1)
+INSERT dbo.Proveedor(idProveedor, nombreProveedor, direccionProveedor, telefonoProveedor, idTienda) VALUES (2, 'Tecny Market', 'Quitumbe', '2632652', 1)
+INSERT dbo.Proveedor(idProveedor, nombreProveedor, direccionProveedor, telefonoProveedor, idTienda) VALUES (3, 'Artefacta', 'Carcelen', '2655255', 1)
+INSERT dbo.Proveedor(idProveedor, nombreProveedor, direccionProveedor, telefonoProveedor, idTienda) VALUES (4, 'Zapmeta', 'Condado', '2656555', 1)
+INSERT dbo.Proveedor(idProveedor, nombreProveedor, direccionProveedor, telefonoProveedor, idTienda) VALUES (5, 'Ctecdesign', 'Valle', '3065552', 1)

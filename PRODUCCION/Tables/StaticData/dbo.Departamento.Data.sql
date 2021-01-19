@@ -1,0 +1,5 @@
+﻿INSERT dbo.Departamento(idDepartamento, nombreDepartamento, telefonoDepartamento, idTienda) VALUES (1, 'Ventas', '2652025', 1)
+INSERT dbo.Departamento(idDepartamento, nombreDepartamento, telefonoDepartamento, idTienda) VALUES (2, 'Recursos humanos', '2656266', 1)
+INSERT dbo.Departamento(idDepartamento, nombreDepartamento, telefonoDepartamento, idTienda) VALUES (3, 'Financiero', '2651025', 1)
+INSERT dbo.Departamento(idDepartamento, nombreDepartamento, telefonoDepartamento, idTienda) VALUES (4, 'Contabilidad', '3060512', 1)
+INSERT dbo.Departamento(idDepartamento, nombreDepartamento, telefonoDepartamento, idTienda) VALUES (5, 'Facturacion', '2621525', 1)
